@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Mv Kidow
 
-<!--
-**mvKidow/mvKidow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Full-Stack Developer**
 
-Here are some ideas to get you started:
+I enjoy building scalable web applications and solving real-world problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 💻 Software Engineering Graduate
+- 🔧 Experienced with ASP.NET Core, C#, SQL Server
+- 🌱 Currently improving my cloud and AI development skills
+- 🎯 Passionate about building efficient and clean software systems
+
+---
+
+## 🛠 Tech Stack
+
+- C#
+- ASP.NET Core
+- SQL Server
+- Python
+- JavaScript
+- HTML & CSS
+- Git
+
+---
+
+## 📂 Projects
+
+### Hospital Ward Management System
+A hospital system for managing wards, beds, patients and staff roles.
+
+**Tech Used**
+- ASP.NET Core
+- Dapper
+- SQL Server
+- Entity Framework
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mvKidow&show_icons=true)
+
+---
+
+## 📫 Contact
+
+- LinkedIn: 
